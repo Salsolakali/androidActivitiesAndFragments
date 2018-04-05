@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity.ActivityUser" />
-        <activity android:name=".activity.Fragment"></activity>
+        <activity android:name=".activity.FragmentActivity"></activity>
     </application>
 
 </manifest>
